@@ -1,0 +1,47 @@
+Kevin Huang
+(845) 282-1598 | 1kevin.huang@gmail.com
+linkedin.com/in/khuangg | github.com/KevinH48264 | Work Authorization: US Citizen
+EDUCATION
+HARVARD UNIVERSITY Cambridge, MA
+Master of Science, Computer Science & Bachelor of Arts, Computer Science, GPA: 3.7/4.0 Sept 2019 - May 2023
+Coursework: MIT: Natural Language Processing (graduate), CS262: Distributed Systems (graduate), CS242: Computing at
+Scale (graduate), CS 286: Multi-Robot Systems (graduate), CS279: Human Computer-Interaction, CS181: Machine Learning,
+CS124: Data Structures and Algorithms, CS 61: Systems Programming, Linear Algebra, Probability, Music in the Metaverse
+Interests: AI for scientific discovery, climate tech, AI safety, robotics, AR/VR, social good
+Skills: Python, C++, REST APIs, JavaScript, SQL, React, TypeScript, CSS, Node, AWS, Azure, Google Cloud Platform, Unity
+EXPERIENCE
+Microsoft, Azure OpenAI Mountain View, CA
+TECHNICAL PM August 2023 - Present
+• Leading Microsoft’s offering of DALL-E generative AI art services to customers and working with OpenAI, engineering,
+product managers, responsible AI, and customer sales to execute on roadmap and enable quality performance for customers
+• Founded and lead weekly AI4Science Research Reading Group, publishing paper reviews at medium.com/@1kevin.huang
+• Write testing code for Microsoft’s Assistants large language model agents service and ensuring expected quality results
+Microsoft, AI Platform Redmond, WA
+TECHNICAL PM May 2022 - August 2022
+• Created and implemented two advanced PowerBI ML model dashboards, utilizing benchmark testing and hardware analysis
+to uncover significant degradation in performance in 80% of Microsoft’s ONNX models vs. PyTorch models
+• Contributed to the field of optimized interoperable and hardware-agnostic ML model training by publishing a video tutorial
+for data engineers, using Python, Azure, and Open Neural Network Exchange (ONNX) technologies
+Oracle, Global Business Unit Burlington, MA
+SOFTWARE ENGINEER INTERN May 2021 - August 2021
+• Leveraged cloud (Kubernetes and Docker) and automation tools (Robot Framework) to reduce deployment time by 75%
+• Wrote 2 test suite automation scripts using continuous integration and continuous deployment (CI/CD, Gitlab)
+Harvard Biorobotics Lab Cambridge, MA
+MACHINE LEARNING RESEARCH ASSISTANT March 2021 - May 2021
+• Leveraged semantic segmentation tools to build ML models for muscle identification using ultrasound imaging and sensors
+• Completed literature reviews to understand the current landscape of automated classification algorithms using sensor data
+RESEARCH
+Independent research: MLAgentBench October 2023 - Present
+• Independently testing Stanford’s MLAgentBench (https://github.com/snap-stanford/MLAgentBench) and implementing
+and experimenting with LLM agent systems from NVIDIA (Eureka and Voyager) and Google Deepmind (FunSearch)
+• Independently designed agent system beat top 2% of Kaggle users from starting naive RandomForestRegressor at top 10%
+Map of Carbon Capture Research June 2023 - August 2023
+• Independently built a map of 2000+ carbon capture research papers (https://autoscious-carbon-capture.vercel.app/) using
+OpenAlex focusing on aesthetic and useful design using physics forces in D3.js and high performance memory management
+• Qualitatively beat SOTA automatic hierarchical clustering algorithm HDBSCAN by leveraging GPT4 for auto-clustering
+Code Translate June 2021 - December 2021
+• Built a Google Translate for coding languages to enable web access to Facebook’s code-translation ML model (AWS)
+EXTRACURRICULARS
+Harvard Biotechnology Club Cambridge, MA
+INNOVATION TEAM January 2023 - May 2023
+• Researched, adapted, and tested predictive and generative models for predicting protein binding affinities given sequences
